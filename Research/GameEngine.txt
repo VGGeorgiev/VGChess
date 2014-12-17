@@ -1,0 +1,7 @@
+http://swcodes.blogspot.com/2012/09/chess-game-design.html
+
+http://stackoverflow.com/questions/4168002/object-oriented-design-for-a-chess-game
+
+http://codereview.stackexchange.com/questions/71790/design-a-chess-game-using-object-oriented-principles
+
+http://www.c-sharpcorner.com/UploadFile/kaushalgol/ChessProgram11152005054904AM/ChessProgram.aspx

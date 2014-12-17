@@ -1,0 +1,5 @@
+D:\Projects\VGChess\VGChess.GameEngine.Common\bin\Debug\VGChess.GameEngine.Common.dll
+D:\Projects\VGChess\VGChess.GameEngine.Common\bin\Debug\VGChess.GameEngine.Common.pdb
+D:\Projects\VGChess\VGChess.GameEngine.Common\obj\Debug\VGChess.GameEngine.Common.csprojResolveAssemblyReference.cache
+D:\Projects\VGChess\VGChess.GameEngine.Common\obj\Debug\VGChess.GameEngine.Common.dll
+D:\Projects\VGChess\VGChess.GameEngine.Common\obj\Debug\VGChess.GameEngine.Common.pdb
