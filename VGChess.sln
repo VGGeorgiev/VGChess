@@ -13,9 +13,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Client", "Client", "{474737
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VGChess.GameEngine.Common", "VGChess.GameEngine.Common\VGChess.GameEngine.Common.csproj", "{8E877770-F8FC-45F2-9C49-CCC10A2F4C2D}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Research", "Research", "{969F0E40-82B5-417B-A854-BD8B8510AC99}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Research", "Research", "{3E2D066B-61E6-4E59-BBEF-C0CB020D5E07}"
 	ProjectSection(SolutionItems) = preProject
-		GameEngine.txt = GameEngine.txt
+		Research\GameEngine.txt = Research\GameEngine.txt
 	EndProjectSection
 EndProject
 Global

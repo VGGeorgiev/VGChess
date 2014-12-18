@@ -2,6 +2,10 @@
 {
     public class Board
     {
-        private Piece[,] board;
+        private Square[,] squares;
+
+        private PieceSet[] pieceSets;
+
+        private PieceColor pieceSetOnTop;
     }
 }
